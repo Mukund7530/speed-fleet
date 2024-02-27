@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding: 25px;
+    background-color: rgba(99, 89, 30, 0.568);
+    color: black; 
+
+}
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+button{
+    cursor: pointer;
+}
+.nav{
+    height: 160px;
+    width: 100%;
+    display: flex;
+    
+    padding: 0px;
+    margin: 0px;
+    
+}
+#logo{
+    height: 240px;
+    width: 290px;
+    background-image: url('car_mechanic_3-removebg-preview.png');
+    background-position: center;
+    background-size: cover;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+#worry{
+    height: 6vh;
+    width: 100%;
+    justify-content: left;
+    text-align: left;
+    margin-left: 140px;
+}
+h1{
+    color: rgb(112, 48, 28);
+    font-size: 4vw;
+    margin-left: 55px;
+    
+
+
+}
+span{
+    color: rgb(150, 5, 5);
+    font-size: 23px;
+    font-weight: 600;
+    -webkit-text-stroke: 5px solid #000;
+}
+#bc{
+    font-size: 18px;
+    color: rgb(112, 48, 28);
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #000;
+}
+.contain{
+    display: flex;
+    height: 410px;
+    width: 1080px;
+    margin-top: 20px;
+    justify-content: center;
+}
+#img{
+    height: 280px;
+    width: 280px;
+    background-image: url("car_mechanic-removebg-preview.png");
+    filter: drop-shadow(10px 10px 20px #555);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.contact{
+    height: 630px;
+    width: 60%;
+}
+#tata{
+    height: 100px;
+    width: 80%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 5vw;
+    flex-wrap: nowrap;
+}
+#service1{
+    height: 100px;
+    width: 170px;
+    /* border: #000000; */
+}
+#service2{
+    height: 100px;
+    width: 170px;
+    /* border: #000000; */
+    margin-left: 50px;
+}
+
+

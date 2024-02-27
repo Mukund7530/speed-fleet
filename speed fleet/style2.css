@@ -1,0 +1,201 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.first{
+    height: 75px;
+    width: 100%;
+    background-color: rgb(85, 88, 88);
+    display: flex;
+    margin-right: 50px;justify-content: space-around;
+    position: static;
+}
+a{
+    text-decoration: none;
+    background: linear-gradient(rgb(255, 255, 255) 35%,rgb(177, 175, 173) 65%);
+    background-clip: text;
+    font-weight: 800;
+    color: transparent;
+    font-size: 25px;
+    text-align: end;
+}
+
+
+
+h1{
+    background: linear-gradient(rgb(255, 255, 255) 35%,rgb(177, 175, 173) 65%);
+    background-clip: text;
+    color: transparent;
+    /* animation-name: exiting;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite; */
+    font-size: 35px;
+    text-align: left;
+   
+}
+.toolbox{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(211, 204, 204);
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    color: blue;
+    font-size: 35px;
+    text-decoration: underline;
+}
+p{
+    font-size: 20px;
+}
+#red{
+    color: red;
+    font-size: 25px;
+    font-weight: 800;
+}
+#nexon{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('nexon.webp');
+    background-position: center;
+    background-size: cover;
+}
+#tiago{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tiago.webp');
+    background-position: center;
+    background-size: cover;
+}
+#safari{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tata\ safari.png');
+    background-position: center;
+    background-size: cover;
+}
+#tigor{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tata-tigor-ev.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#nrg{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tiago\ nrg.webp');
+    background-position: center;
+    background-size: cover;
+}
+#harrier{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('harrier3.png');
+    background-position: center;
+    background-size: cover;
+}
+#punch{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('punch-exterior-left-front-three-quarter-4.webp');
+    background-position: center;
+    background-size: cover;
+}
+#altroz{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('altroz-exterior-right-front-three-quarter-80.webp');
+    background-position: center;
+    background-size: cover;
+}
+#Marcopolo{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tata\ marcopolo.webp');
+    background-position: center;
+    background-size: cover;
+}
+#Marcopolo2{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tata\ marcopolo\ 2.png');
+    background-position: center;
+    background-size: cover;
+}
+#Prima{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tata\ prima.png');
+    background-position: center;
+    background-size: cover;
+}
+#signa{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tata\ signa.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#ultra{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tata\ ultra.png');
+    background-position: center;
+    background-size: cover;
+}
+#ultra2{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tata\ ultra\ 2.avif');
+    background-position: center;
+    background-size: cover;
+}
+#LPK{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tata\ lpk.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#lpk2{
+    height: 170px;
+    width: 300px;
+    top: 10px;
+    background-color: white;
+    background-image: url('tata\ lpk\ 2.png');
+    background-position: center;
+    background-size: cover;
+}
